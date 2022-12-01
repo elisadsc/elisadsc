@@ -1,8 +1,7 @@
-- 👋 Hello world, I’m @elisadsc
-- 👀 Apaixonada por conhecimento e carros antigos 
-- 🌱 Cursando 3° semestre em Análise e Desenvolvimento de Sistemas na FATEC
-- 💞️ Faço parte do grupo Átomo como developer back-end
-- 📫 Instagram: @elisadsc
+ Hello world, I’m @elisadsc
+ Cursando 3° semestre em Análise e Desenvolvimento de Sistemas na FATEC
+ Faço parte do grupo Átomo como developer back-end
+ Instagram: @elisadsc
 
 <!---
 elisadsc/elisadsc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
