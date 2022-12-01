@@ -1,5 +1,5 @@
 - 👋 Hello world, I’m @elisadsc
-- 👀 apaixonada por conhecimento e carros antigos 
+- 👀 Apaixonada por conhecimento e carros antigos 
 - 🌱 Cursando 3° semestre em Análise e Desenvolvimento de Sistemas na FATEC
 - 💞️ Faço parte do grupo Átomo como developer back-end
 - 📫 instagram: @elisadsc
