@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 <div> 
   <a href = "mailto:elianelisa@hotmail.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
- 
-  ![Snake animation](https://github.com/elisadsc/elisadsc/blob/output/github-contribution-grid-snake.svg)
+ ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
  
 </div>
