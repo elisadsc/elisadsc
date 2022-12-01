@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 ##
   
 <div> 
-elisadsc: ${{ github.repository_owner }}
+
 
  
 </div>
