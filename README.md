@@ -9,7 +9,7 @@ elisadsc/elisadsc is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
-  <a href="https://github.com/JoaoGRMira">
+  <a href="https://github.com/elisadsc">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JoaoGRMira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGRMira&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 ##
   
 <div> 
-  <a href = "mailto:joaogabrielribeiromira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:elianelisa@hotmail.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-ribeiro-mira-593a48229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/JoaoGRMira/JoaoGRMira/blob/output/github-contribution-grid-snake.svg)
