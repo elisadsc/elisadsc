@@ -1,4 +1,5 @@
  - Hello world, I’m @elisadsc
+ - Técnica em Desenvolvimento de Sistemas pela ETEC de São José dos Campos 
  - Cursando 3° semestre em Análise e Desenvolvimento de Sistemas na FATEC
  - Faço parte do grupo Átomo como developer back-end
  - Instagram: @elisadsc
