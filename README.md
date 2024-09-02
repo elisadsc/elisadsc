@@ -1,5 +1,7 @@
+<!--- 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=722f37&height=120&section=header"/>
-
+--->
+    
 <img align="right" height="180" style="border-radius:50px;" src="https://i.pinimg.com/originals/6a/b4/cc/6ab4ccdb03b178d8b408d3884fb9f4b0.png">
   
 _Hello world, I’m @elisadsc!_
