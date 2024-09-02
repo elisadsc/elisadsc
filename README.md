@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ad6f&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=722f37&height=120&section=header"/>
 
 ## Hello world, I’m @elisadsc
 
@@ -11,9 +11,7 @@
  - Faço parte do grupo Átomo como developer back-end 
  - Instagram: @elisadsc
 
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e9f3d&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=722f37&height=120&section=footer"/>
 
 
 <!---
