@@ -2,8 +2,7 @@
 
 ## Hello world, I’m @elisadsc
 
-</div>
-  <img align="right" alt="My anime version - Gif" height="180" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artofit.org%2Fimage-gallery%2F691935930223300806%2Fen-octubre-comienza-nuevo-anime-spin-off-de-attack-on-titan-%25E2%2580%259Cshingeki%2F&psig=AOvVaw33dsNr82DW-xe0t733OEZ1&ust=1725397567475000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLi5k_yUpYgDFQAAAAAdAAAAABAJ">
+  <img align="right" alt="My anime version - Gif" height="180" style="border-radius:50px;" src="https://i.pinimg.com/originals/6a/b4/cc/6ab4ccdb03b178d8b408d3884fb9f4b0.png">
 </div>
 
  - Técnica em Desenvolvimento de Sistemas pela ETEC de São José dos Campos 
