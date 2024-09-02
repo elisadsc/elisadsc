@@ -1,7 +1,10 @@
- - Hello world, I’m @elisadsc
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ad6f&height=120&section=header"/>
+
+## Hello world, I’m @elisadsc
+
  - Técnica em Desenvolvimento de Sistemas pela ETEC de São José dos Campos 
- - Cursando 5° semestre em Análise e Desenvolvimento de Sistemas na FATEC
- - Faço parte do grupo Átomo como developer back-end
+ - Cursando 6° semestre em Análise e Desenvolvimento de Sistemas na FATEC
+ - Faço parte do grupo Átomo como developer back-end 
  - Instagram: @elisadsc
 
 <!---
