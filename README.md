@@ -11,8 +11,6 @@
  - Faço parte do grupo Átomo como developer back-end 
  - Instagram: @elisadsc
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=722f37&height=120&section=footer"/>
-
 ---
 
 <div align="center">
@@ -20,6 +18,7 @@
   <a href="http://www.github.com/elisadsc"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisadsc&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=722f37&height=120&section=footer"/>
 <!---
 
     --->
