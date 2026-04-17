@@ -6,7 +6,7 @@
   
 *_Hello world, I’m Elisa Carvalho!_*
   
- - Analista de BI na V4 Company 
+ - Analista de Tech na V4 Company 
  - Técnica em Desenvolvimento de Sistemas pela ETEC de São José dos Campos 
  - Analista e Desenvolvedora de Sistemas pela FATEC de São José dos Campos 
  - Instagram: @elisadsc
